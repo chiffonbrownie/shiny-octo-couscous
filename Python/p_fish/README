@@ -1,0 +1,10 @@
+Executes one-way filesystem hashing and then is succeeded by a forensic examination of a file system
+
+Given a file system to search through, it creates a csv file that contains a list of file locations, file metadata, and hashes of each file which is specified at execution.
+
+Specifiable hashes:
+MD5
+SHA224
+SHA256
+SHA384
+SHA512
