@@ -1,0 +1,9 @@
+Implements the following from c into RISC-V:
+
+int j;
+int result;
+while (result < 100) {
+    j += *MemArray;
+    MemArray += 2;
+    result++;
+}
