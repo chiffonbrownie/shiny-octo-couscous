@@ -1,0 +1,3 @@
+[submodule "Shell/download-simpson"]
+	path = Shell/download-simpson
+	url = https://github.com/chiffonbrownie/download-simpson
