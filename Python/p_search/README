@@ -1,0 +1,3 @@
+Executes search of keywords and approximate word detection in a specified binary file
+
+Utilizes edit-distance matching to find approximate matches in specified file compared to a given list of words
