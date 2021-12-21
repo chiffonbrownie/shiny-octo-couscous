@@ -1,0 +1,5 @@
+add x1 x1 x0
+or x2 x3 x1
+jal x0 4
+slli x1 x2 4
+ori x2 x1 6

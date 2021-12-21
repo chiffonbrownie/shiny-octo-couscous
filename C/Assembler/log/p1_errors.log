@@ -1,0 +1,10 @@
+Error - extra argument at line 3: x2
+Error - invalid label at line 7: 3hello
+Error - extra argument at line 9: slli
+Error: name 'label' already exists in table.
+Error - extra argument at line 13: 5
+Error - invalid instruction at line 6: l2: addi x1 x1
+Error - invalid instruction at line 8: addi x3 x44 4
+Error - invalid instruction at line 9: ori x1 x2 65365
+Error - invalid instruction at line 10: bne x1 x2 not_found
+One or more errors encountered during assembly operation.

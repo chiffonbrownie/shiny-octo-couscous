@@ -1,0 +1,15 @@
+.text
+001200b3
+00316133
+ff9ff16f
+403100b3
+ff1ff06f
+00806193
+
+.symbol
+4	label
+20	l1
+
+.relocation
+8	label
+16	label

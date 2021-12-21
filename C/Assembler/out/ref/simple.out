@@ -1,0 +1,15 @@
+.text
+003100b3
+00310093
+0040a183
+fe311ce3
+0011e133
+fedff06f
+00311093
+
+.symbol
+4	loop1
+16	loop
+
+.relocation
+20	loop

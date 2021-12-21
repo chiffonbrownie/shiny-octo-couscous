@@ -1,0 +1,10 @@
+add x1 x4 x1
+or x2 x2 x3
+jal x2 label
+sub x1 x2 x3
+jal x0 label
+l2: addi x1 x1
+ori x3 x0 8
+addi x3 x44 4
+ori x1 x2 65365
+bne x1 x2 not_found

@@ -1,0 +1,19 @@
+.text
+00000293
+00229e13
+01c30eb3
+000eaf03
+000f0a63
+01c38fb3
+01efa023
+00128293
+fe1ff06f
+00a00513
+000005b3
+
+.symbol
+4	loop
+36	exit
+
+.relocation
+32	loop
